@@ -13,7 +13,7 @@ pip3 install -r requirements.txt
 
 # System Admin Functions
 - authorization in the system 
-- add / change / delete polls. 
+- add / change / delete surveys. 
 - Survey attributes: title, start date, end date, description. After creation, the field "start date" for the survey cannot be changed
 - adding / changing / deleting questions in the survey. 
 - Question attributes: question text, question type (text answer, single choice answer, multiple choice answer)
